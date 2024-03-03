@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-16" ?>
+
+<blok id="0">
+
+<produkty id="0" liczba="1" tytul="AIDEM MEDIA" graj="Graj" instaluj="Instaluj" wyjscie="Wyjście">
+
+<produkt id="0">
+	<tytul>Reksio i UFO</tytul>
+	<id>Reksio_Ufo_download</id>
+	<gfx>UFO.png</gfx>
+	<ikonax>50</ikonax>
+	<ikonay>180</ikonay>
+	<ikonaw>190</ikonaw>
+	<ikonah>0</ikonah>
+	<podpisx>0</podpisx>
+	<podpisy>-30</podpisy>
+	<installlink>setup.exe</installlink>
+	<playlink>ReksioUfo.exe</playlink>
+</produkt>
+
+
+
+
+</produkty>
+
+</blok>
